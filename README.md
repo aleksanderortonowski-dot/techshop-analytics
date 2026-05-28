@@ -47,4 +47,4 @@ Champions, Loyal Customers, Potential Loyalists, At Risk, Lost.
 
 ## Zrzut ekranu — Segmentacja RFM (Część B)
 
-*(wklej tu screenshot z DBeaver po uruchomieniu Części B w 05_rfm_segmentation.sql)*
+![RFM Segmentation](rfm_screenshot.png)
